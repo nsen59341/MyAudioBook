@@ -1,0 +1,3 @@
+pip install psycopg2-binary => allow us to use postgres SQL
+pip install dj-database-url => allow database url to connect with your django application.
+pip install django-environ => is the Python package that allows you to use Twelve-factor methodology to configure your Django application with environment variables.
