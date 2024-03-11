@@ -1,1 +1,1 @@
-web: gunicorn CrazyForAudios
+web: gunicorn CrazyForAudios.wsgi
