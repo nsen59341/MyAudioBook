@@ -1,1 +1,1 @@
-web: gunicorn CrazyForAudios.wsgi
+web: gunicorn MyAudioBook.CrazyForAudios.wsgi
